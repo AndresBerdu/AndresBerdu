@@ -45,7 +45,7 @@
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/6a913458-3c42-4af6-99ff-eb4cfee965bc)
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/80777673-65f3-4c19-a5c4-b750baf152d5)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresBerdu&show_icons=true&theme=transparent)
 
 
 
