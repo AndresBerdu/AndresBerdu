@@ -1,4 +1,18 @@
+
 ### Hola Soy, Andrés Eliécer Berdugo castro  👋
+---
+
+🔭 Hoy  en día me  encuentro haceidno  practicas en la  empresa de Domina S.A.S, en mi estancia  por  esta gran empresa, he podido aprender muchas cosas en una de  las  ramas de la tecnología como QA, ayudadno a probar los diferentes aplicativos de la empresa y dando calidad a los usuarios dirijidos.
+
+🌱 Actualmente me encuentro aprendiendo la libreria de Fronted React y Springboot. También estoy aprendiendo distintas herramientas que me ayuden a automatizar pruebas como Cypress y Artilley. Siempre estoy dispuesto aprender nuevos lenguajes de programación y nuevos Framewokrs que me ayuden a mi crecimiento personal.
+
+👯 Actualmentoe estoy colaborando com mi compañera Melanny Cordoba, una gran ingeniera de software. Estamos emprendiendo en un negocio de una marca de ropa para nuestro crecimiento personal y financiero.
+
+### Tecnologías y Herramientas 🧰
+---
+
+### Mis redes sociales 🛜
+
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/21825895-2479-40f1-9569-26bf76326207)
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/5b06fe92-03fd-4946-939b-c1f9caea238f)
 
@@ -45,22 +59,6 @@
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/6a913458-3c42-4af6-99ff-eb4cfee965bc)
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/80777673-65f3-4c19-a5c4-b750baf152d5)
 
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresBerdu&show_icons=true&theme=transparent)
-
-
-
-
-<!--
-**AndresBerdu/AndresBerdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
