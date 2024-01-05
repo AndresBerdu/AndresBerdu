@@ -1,4 +1,4 @@
-### Hola Soy, Andrés Eliécer Berdiugo castro  👋
+### Hola Soy, Andrés Eliécer Berdugo castro  👋
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/21825895-2479-40f1-9569-26bf76326207)
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/5b06fe92-03fd-4946-939b-c1f9caea238f)
 
