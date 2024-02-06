@@ -21,13 +21,12 @@
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/f975e052-9b2b-4b12-858c-5490753b6b74)
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/6f48fc5a-27a1-4476-8ad5-fbdcb77ff9bb)
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/8bb8a2d3-1371-4b40-81f7-afe799dedbb0)
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/c296249d-d3e7-45e6-9526-8bfd4f17bf32)
+![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/8ee0084c-90fa-42e1-958e-af43d0e6540b)
 
 ### 💻 Fronted
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/4c3b2b50-8ff9-4ea9-b51a-b7fa8ee1f7fa)
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/da9bfc0a-4172-4e74-a95a-4369421439fe)
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/6ef73adc-1a86-401f-83c7-3dc8500aedac)
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/8ee0084c-90fa-42e1-958e-af43d0e6540b)
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/ff905e3c-a875-4787-8842-8d37e3ec489c)
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/830cebd4-e753-4831-8d95-e49db98f4484)
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/405e18fc-5aa3-4dea-ab9b-3996cffa4ab1)
