@@ -1,6 +1,6 @@
 
 ### Hola Soy, Andrés Eliécer Berdugo castro  👋
-<br/>
+<br><br/>
 
 🔭 Hoy  en día me  encuentro haceidno  practicas en la  empresa de Domina S.A.S, en mi estancia  por  esta gran empresa, he podido aprender muchas cosas en una de  las  ramas de la tecnología como QA, ayudadno a probar los diferentes aplicativos de la empresa y dando calidad a los usuarios dirijidos.
 
