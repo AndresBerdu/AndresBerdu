@@ -12,6 +12,7 @@
 ---
 
 ### 🖥️ Backend
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/f975e052-9b2b-4b12-858c-5490753b6b74)
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/6f48fc5a-27a1-4476-8ad5-fbdcb77ff9bb)
 ![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/8bb8a2d3-1371-4b40-81f7-afe799dedbb0)
