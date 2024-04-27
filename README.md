@@ -1,48 +1,54 @@
 
-### Hola Soy, Andrés Eliécer Berdugo castro  👋
-<hr><hr/>
+<h1>Hola Soy, Andrés Eliécer Berdugo castro 👋</h1>
 
-🔭 Hoy  en día me  encuentro haceidno  practicas en la  empresa de Domina S.A.S, en mi estancia  por  esta gran empresa, he podido aprender muchas cosas en una de  las  ramas de la tecnología como QA, ayudadno a probar los diferentes aplicativos de la empresa y dando calidad a los usuarios dirijidos.
+<hr/>
 
-🌱 Actualmente me encuentro aprendiendo la libreria de Fronted React y Springboot. También estoy aprendiendo distintas herramientas que me ayuden a automatizar pruebas como Cypress y Artilley. Siempre estoy dispuesto aprender nuevos lenguajes de programación y nuevos Framewokrs que me ayuden a mi crecimiento personal.
+<h1>SOBRE MI 👽</h1>
+<p>
+🎓 TÉCNICO EN SISTEMAS Y TECNÓLOGO EN SISTEMAS.
 
-👯 Actualmentoe estoy colaborando com mi compañera Melanny Cordoba, una gran ingeniera de software. Estamos emprendiendo en un negocio de una marca de ropa para nuestro crecimiento personal y financiero.
+🔭 Hoy en día estoy en busca de trabajo en mi area, como desarrollador Frontend o Backend.
 
-### Tecnologías y Herramientas 🧰
----
+🌱 Actualmente me encuentro aprendiendo el Framework de Springboot.
 
-### 🖥️ Backend
+🧑‍💻 Actualmentoe estoy desarrollando diferentes proyectos en React Native, como un Coffee Shop.
+</p>
+
+<h1>Tecnologías y Herramientas 🧰</h1>
+<hr/>
+<h2>🖥️ Backend</h2>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/f975e052-9b2b-4b12-858c-5490753b6b74)
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/6f48fc5a-27a1-4476-8ad5-fbdcb77ff9bb)
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/8bb8a2d3-1371-4b40-81f7-afe799dedbb0)
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
-### 💻 Fronted
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/4c3b2b50-8ff9-4ea9-b51a-b7fa8ee1f7fa)
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/da9bfc0a-4172-4e74-a95a-4369421439fe)
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/6ef73adc-1a86-401f-83c7-3dc8500aedac)
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/ff905e3c-a875-4787-8842-8d37e3ec489c)
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/830cebd4-e753-4831-8d95-e49db98f4484)
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/405e18fc-5aa3-4dea-ab9b-3996cffa4ab1)
+<h2>💻 Fronted</h2>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
-### 🪄 Styles Frameworks 
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/41204440-c57d-40d1-9d30-801c08927477)
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/49c32705-14e5-4852-a58b-dab66bd2e9e3)
+<h2>🪄 Styles</h2>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-### 💾 Bases de datos
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/2914ec33-0d0d-4f8d-9457-df13839c6390)
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/81d12230-844e-4c30-bd97-88e10e64a6c7)
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/ad79973f-8e1d-480c-9ce4-f3e874a45c2f)
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/35e29462-7742-4e24-8d4c-6c946e4e0197)
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/a13ba0fe-cf02-46f8-8b5c-f7289f1aba0c)
+<h2>💾 Bases de datos</h2>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-### 🔧 Herramientas
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/0edc4860-cdc5-4319-bb66-4cf901b0b570)
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/6dfea22f-309a-4e07-9e57-d4c0e29e5d99)
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/b72d5af6-9dba-49f3-ad06-592a153b1dae)
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/3ec4ca5b-2f33-4c29-bfd0-6ad5e62660f6)
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/8f4e6612-e663-4e63-9123-c7fb7df5d0e6)
-![image](https://github.com/AndresBerdu/AndresBerdu/assets/101230318/80777673-65f3-4c19-a5c4-b750baf152d5)
+<h2>🔧 Herramientas</h2>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
 
 ---
 
