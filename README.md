@@ -1,5 +1,7 @@
+<h1 align="center">
+  <img src="https://github.com/AndresBerdu/AndresBerdu/assets/101230318/08aae95b-dfb6-4c63-bd20-e1e3e4c76f1c"/>
+</h1>
 
-<h1>Hola Soy, Andrés Eliécer Berdugo castro 👋</h1>
 
 <h1>SOBRE MI 👽</h1>
 <p>
@@ -12,7 +14,7 @@
 🧑‍💻 Actualmentoe estoy desarrollando diferentes proyectos en React Native, como un Coffee Shop.
 </p>
 
-<h1>Tecnologías y Herramientas 🧰</h1>
+<h1>TECNOLOGÍAS Y HERRAMIENTAS 🧰</h1>
 
 <table>
   <tr>
@@ -28,6 +30,7 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
     </td>
@@ -58,8 +61,14 @@
   </tr>
 </table>
 
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresBerdu&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresBerdu&layout=compact&theme=transparent)
+<h1>ESTADÍSTICAS 📈</h1>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AndresBerdu&show_icons=true&theme=transparent"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresBerdu&layout=compact&theme=transparent"/>
+    </td>
+  </tr>
+</table>
